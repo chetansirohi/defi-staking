@@ -29,4 +29,4 @@ How To Run the project locally
 
 ``` cd frontend ``` As we have frontend in a separate folder
 
-``` npm start run ```
+``` npm start ```
