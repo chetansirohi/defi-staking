@@ -1,5 +1,5 @@
 .App {
-  background-color: #fff;
+  background-color: #34568b;
   text-align: center;
   min-height: 100vh; /* required for full page background */
 }
@@ -20,7 +20,7 @@
   display: inline-block;
   margin-left: 24px;
   padding: 5px;
-  color: #1168f1;
+  color: #fff;
   font-size: 24px;
 }
 .connectButton {
@@ -34,7 +34,7 @@
   cursor: pointer;
 }
 .connectButton:hover {
-  background-color: #f90;
+  background-color: #1affd1;
 }
 .navBar {
   padding-top: 18px;
@@ -70,7 +70,7 @@
   display: block;
   font-size: 24px;
   font-weight: 1000;
-  color: #f90;
+  color: #24248f;
 }
 .logoImg {
   background-color: #fff;
@@ -86,7 +86,7 @@
   font-weight: 800;
 }
 .hoverButton:hover {
-  background: #f90;
+  background: #1affd1;
   cursor: pointer;
 }
 .hoverButton:active {
@@ -111,7 +111,7 @@
 }
 .columnHeaders {
   font-weight: 800;
-  color: #f90;
+  color: #24248f;
 }
 .stakedLogoImg {
   background-color: #fff;
